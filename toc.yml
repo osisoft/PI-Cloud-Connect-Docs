@@ -1,3 +1,118 @@
-- name: <PLACEHOLDER>
-  href: content/
-  homepage: content/index.md
+- name: PI Cloud Connect
+  href: content/pi-cloud-connect.md
+  items:
+    - name: PI Cloud Connect Overview
+      href: content/overview/pi-cloud-connect-overview.md
+      items:
+        - name: How PI Cloud Connect works
+          href: content/overview/how-pi-cloud-connect-works.md
+        - name: Data sharing workflow
+          href: content/overview/data-sharing-workflow.md
+        - name: Share data with other corporations
+          href: content/overview/share-data-with-other-corporations.md
+        - name: Overall data flow
+          href: content/overview/overall-data-flow.md
+        - name: Performance and throughput
+          href: content/overview/performance-and-throughput.md
+    - name: Onboarding
+      href: content/onboarding/onboarding.md
+      items:
+        - name: Onboarding checklist
+          href: content/onboarding/onboarding-checklist.md
+    - name: User accounts
+      href: content/accounts/user-accounts.md
+      items:
+        - name: Add user account
+          href: content/accounts/add-user-account.md
+        - name: Edit user account
+          href: content/accounts/edit-user-account.md
+        - name: Deactivate user account
+          href: content/accounts/deactivate-user-account.md
+    - name: Activities summary
+      href: content/activities/activities-summary.md
+    - name: Publications
+      href: content/publications/publications.md
+      items:
+        - name: Publication details
+          href: content/publications/publication-details.md
+        - name: Create publications
+          href: content/publications/create-publications.md
+          items:
+          - name: Select data source
+            href: content/publications/select-data-source.md
+          - name: Define publication scope
+            href: content/publications/define-publication-scope.md
+          - name: Set publishing options
+            href: content/publications/set-publishing-options.md
+          - name: Enter publication name
+            href: content/publications/enter-publication-name.md
+        - name: Add subscribers
+          href: content/publications/add-subscribers.md
+        - name: Start/stop publications
+          href: content/publications/startstop-publishing.md
+        - name: Delete publications
+          href: content/publications/delete-publications.md
+    - name: Subscriptions
+      href: content/subscriptions/subscriptions.md
+      items:
+        - name: Subscription details
+          href: content/subscriptions/subscription-details.md
+        - name: Create subscriptions
+          href: content/subscriptions/create-subscriptions.md
+          items:
+          - name: Select destination system
+            href: content/subscriptions/select-destination-system.md
+          - name: Select root AF element
+            href: content/subscriptions/select-root-af-element.md
+          - name: Enter subscription name
+            href: content/subscriptions/enter-subscription-name.md
+        - name: Start/stop subscriptions
+          href: content/subscriptions/startstop-subscriptions.md
+        - name: Delete subscriptions
+          href: content/subscriptions/delete-subscriptions.md
+    - name: System
+      href: content/system/system.md
+      items:
+        - name: Nodes
+          href: content/system/nodes.md
+        - name: Download and Install PI Cloud Connect
+          href: content/system/download-and-install-pi-cloud-connect.md
+        - name: Uninstall PI Cloud Connect
+          href: content/system/uninstall-pi-cloud-connect.md
+        - name: Automated upgrades
+          href: content/system/automated-upgrades.md
+        - name: Performance counters
+          href: content/system/performance-counters.md
+    - name: Security
+      href: content/security/security.md
+    - name: Troubleshoot PI Cloud Connect
+      href: content/troubleshoot/troubleshoot-pi-cloud-connect.md
+      items:
+        - name: Unable to sign into the PI Cloud Connect Customer Portal
+          href: content/troubleshoot/unable-to-sign-into-the-pi-cloud-connect-portal.md
+        - name: Activation ticket has expired
+          href: content/troubleshoot/activation-ticket-has-expired.md
+        - name: Error during node deployment
+          href: content/troubleshoot/error-during-node-deployment.md
+        - name: Cannot access PI AF
+          href: content/troubleshoot/cannot-access-pi-af.md
+        - name: Access local log files
+          href: content/troubleshoot/access-local-log-files.md
+    - name: Best practices
+      href: content/best-practices/best-practices.md
+      items:
+        - name: Supported AF objects
+          href: content/best-practices/supported-af-objects.md
+    - name: FAQ
+      href: content/faq/faq.md      
+      items:
+        - name: General
+          href: content/faq/general.md
+        - name: Deployment
+          href: content/faq/deployment.md
+        - name: Publication
+          href: content/faq/publication.md
+        - name: Subscription
+          href: content/faq/subscription.md
+        - name: PI Cloud Connect pricing
+          href: content/faq/pi-cloud-connect-pricing.md
