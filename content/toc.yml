@@ -1,0 +1,115 @@
+- name: PI Cloud Connect Overview
+  href: overview/pi-cloud-connect-overview.md
+  items:
+    - name: How PI Cloud Connect works
+      href: overview/how-pi-cloud-connect-works.md
+    - name: Data sharing workflow
+      href: overview/data-sharing-workflow.md
+    - name: Share data with other corporations
+      href: overview/share-data-with-other-corporations.md
+    - name: Overall data flow
+      href: overview/overall-data-flow.md
+    - name: Performance and throughput
+      href: overview/performance-and-throughput.md
+- name: Onboarding
+  href: onboarding/onboarding.md
+  items:
+    - name: Onboarding checklist
+      href: onboarding/onboarding-checklist.md
+- name: User accounts
+  href: accounts/user-accounts.md
+  items:
+    - name: Add user account
+      href: accounts/add-user-account.md
+    - name: Edit user account
+      href: accounts/edit-user-account.md
+    - name: Deactivate user account
+      href: accounts/deactivate-user-account.md
+- name: Activities summary
+  href: activities/activities-summary.md
+- name: Publications
+  href: publications/publications.md
+  items:
+    - name: Publication details
+      href: publications/publication-details.md
+    - name: Create publications
+      href: publications/create-publications.md
+      items:
+      - name: Select data source
+        href: publications/select-data-source.md
+      - name: Define publication scope
+        href: publications/define-publication-scope.md
+      - name: Set publishing options
+        href: publications/set-publishing-options.md
+      - name: Enter publication name
+        href: publications/enter-publication-name.md
+    - name: Add subscribers
+      href: publications/add-subscribers.md
+    - name: Start/stop publications
+      href: publications/startstop-publishing.md
+    - name: Delete publications
+      href: publications/delete-publications.md
+- name: Subscriptions
+  href: subscriptions/subscriptions.md
+  items:
+    - name: Subscription details
+      href: subscriptions/subscription-details.md
+    - name: Create subscriptions
+      href: subscriptions/create-subscriptions.md
+      items:
+      - name: Select destination system
+        href: subscriptions/select-destination-system.md
+      - name: Select root AF element
+        href: subscriptions/select-root-af-element.md
+      - name: Enter subscription name
+        href: subscriptions/enter-subscription-name.md
+    - name: Start/stop subscriptions
+      href: subscriptions/startstop-subscriptions.md
+    - name: Delete subscriptions
+      href: subscriptions/delete-subscriptions.md
+- name: System
+  href: system/system.md
+  items:
+    - name: Nodes
+      href: system/nodes.md
+    - name: Download and Install PI Cloud Connect
+      href: system/download-and-install-pi-cloud-connect.md
+    - name: Uninstall PI Cloud Connect
+      href: system/uninstall-pi-cloud-connect.md
+    - name: Automated upgrades
+      href: system/automated-upgrades.md
+    - name: Performance counters
+      href: system/performance-counters.md
+- name: Security
+  href: security/security.md
+- name: Troubleshoot PI Cloud Connect
+  href: troubleshoot/troubleshoot-pi-cloud-connect.md
+  items:
+    - name: Unable to sign into the PI Cloud Connect Customer Portal
+      href: troubleshoot/unable-to-sign-into-the-pi-cloud-connect-portal.md
+    - name: Activation ticket has expired
+      href: troubleshoot/activation-ticket-has-expired.md
+    - name: Error during node deployment
+      href: troubleshoot/error-during-node-deployment.md
+    - name: Cannot access PI AF
+      href: troubleshoot/cannot-access-pi-af.md
+    - name: Access local log files
+      href: troubleshoot/access-local-log-files.md
+- name: Best practices
+  href: best-practices/best-practices.md
+  items:
+    - name: Supported AF objects
+      href: best-practices/supported-af-objects.md
+- name: FAQ
+  href: faq/faq.md      
+  items:
+    - name: General
+      href: faq/general.md
+    - name: Deployment
+      href: faq/deployment.md
+    - name: Publication
+      href: faq/publication.md
+    - name: Subscription
+      href: faq/subscription.md
+    - name: PI Cloud Connect pricing
+      href: faq/pi-cloud-connect-pricing.md
