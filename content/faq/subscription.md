@@ -34,7 +34,7 @@ It does not look any different. For each subscription, you might want to put sub
 
 ## Are there restrictions on what types of objects I can subscribe to?
  
-You can receive any objects that are included in the publication, but not all PI AF objects are supported. Please see [Supported AF objects](xref:support-af-objects) for information on supported PI AF objects.
+You can receive any objects that are included in the publication, but not all PI AF objects are supported. Please see [Supported AF objects](xref:supported-af-objects) for information on supported PI AF objects.
 
 ## How do I know if my subscription is receiving data?
  

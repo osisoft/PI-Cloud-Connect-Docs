@@ -10,7 +10,7 @@ A publisher is the owner of data being sent to a publication queue with PI Cloud
 
 ## What AF objects are supported?
  
-See [Supported AF objects](xref:support-af-objects).
+See [Supported AF objects](xref:supported-af-objects).
 
 ## Are there Best Practices for using PI Cloud Connect?
  

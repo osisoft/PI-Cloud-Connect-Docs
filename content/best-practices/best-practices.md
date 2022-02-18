@@ -8,7 +8,7 @@ Please adhere to the following best practices to ensure optimum performance:
 
 - Each subscription should target its own PI AF database and be treated as read-only.
 
-- All objects included in PI Cloud Connect publications should only contain supported AF objects. See the [Supported AF objects](xref:support-af-objects) section for more information.
+- All objects included in PI Cloud Connect publications should only contain supported AF objects. See the [Supported AF objects](xref:supported-af-objects) section for more information.
 
 - Ensure that the total events per second transmitted through a PI Connect node are within the recommendations for [Performance and throughput](xref:performance-and-throughput).
 
