@@ -29,7 +29,12 @@
       ],
       "resource": [
         {
-          "files": ["content/images/**"]
+          "files": [
+            "/content/overview/images/**",
+            "/content/publications/images/**",
+            "/content/subscriptions/images/**",
+            "/content/troubleshoot/images/**"
+          ]
         }
       ],
       "overwrite": [
