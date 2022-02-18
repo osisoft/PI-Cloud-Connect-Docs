@@ -10,11 +10,20 @@ Pricing is based on the maximum number of configured subscriptions per account, 
  
 Prices are determined by the following Commitment rates:
 
-| Small | Medium | Large |
-| ----- | ------ | ----- |
-| 0 to 10 subscriptions | 11 to 20 subscriptions | more than 20 subscriptions |
-| $3000/year* | $5000/year | Contact Us |
-| Unlimited Publications</br>Three (3) months free trial period |
+<table>
+  <thead><tr>
+    <th>Small</th><th>Medium</th><th>Large</th>
+  </tr></thead>
+  <tbody><tr>
+    <td>0 to 10 subscriptions</td><td>11 to 20 subscriptions</td><td>more than 20 subscriptions</td>
+  </tr>    
+  <tr>
+    <td>$3000/year*</td><td>$5000/year</td><td>Contact Us</td>
+  </tr>  
+  <tr>
+    <td colspan="3">Unlimited Publications</br>Three (3) months free trial period</td>
+  </tr>
+  </tbody></table>
 (*) taxes may apply
 
 The maximum number of configured subscriptions is aggregated across all users and all PI Connect nodes for each account. For the initial term, pricing is based on the anticipated usage for that term. For the following term, pricing is based on the actual consumption of the previous term.

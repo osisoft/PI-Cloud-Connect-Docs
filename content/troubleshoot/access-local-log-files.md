@@ -8,4 +8,4 @@ The PI Connect Windows service maintains a log of information about its operatio
 
 If you suspect a problem with PI Cloud Connect on a specific PI Connect node, contact OSIsoft Technical Support and send the log files through the [OSIsoft Customer Portal](https://my.osisoft.com/).
 
-![accessing local log files](./images/screenshot_accessinglocallogfiles.png)
+![accessing local log files](images/screenshot_accessinglocallogfiles.png)

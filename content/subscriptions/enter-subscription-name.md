@@ -16,9 +16,9 @@ The Subscription name step allows you to add a name and description to your subs
 
    **Note:** Conversely, if you wish to utilize the **Replace** writing mode in the subscription, but still wish to compress incoming event data, you can compress data at the publication source rather than the subscription destination. Use the **Delay Publication** setting in the [Enter publication name](xref:enter-publication-name) portion of the Creating Publications section in this document.
 
-1. Enter a Data Prefix (recommended.) This feature enables users to distinguish between identically named PI Points and Digital State Sets from different publications. All PI Points and Digital State Sets included in the subscription will be prepended with the data prefix entered followed by a period. The data prefix must contain only alphanumeric characters and cannot be edited after the subscription is created. The data prefix does not apply to PI AF objects such as PI AF Templates.
+1. Enter a Data Prefix (recommended). This feature enables users to distinguish between identically named PI Points and Digital State Sets from different publications. All PI Points and Digital State Sets included in the subscription will be prepended with the data prefix entered followed by a period. The data prefix must contain only alphanumeric characters and cannot be edited after the subscription is created. The data prefix does not apply to PI AF objects such as PI AF Templates.
 
-1. Enter a Description (optional.)
+1. Enter a Description (optional).
 
 1. Review the subscription summary to ensure all information is accurate. To edit information, click the back arrow button at the bottom of the page.
 
