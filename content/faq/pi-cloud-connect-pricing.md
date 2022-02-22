@@ -8,7 +8,8 @@ uid: pricing
  
 Pricing is based on the maximum number of configured subscriptions per account, per year. A subscription is defined as a data set associated with a corresponding publication. Both publications and subscriptions are defined and managed from the PI Cloud Connect Customer Portal.
  
-Prices are determined by the following Commitment rates:</br>
+Prices are determined by the following Commitment rates:
+
 <table><thead><tr><th>Small</th><th>Medium</th><th>Large</th>
   </tr></thead>
   <tbody><tr>
