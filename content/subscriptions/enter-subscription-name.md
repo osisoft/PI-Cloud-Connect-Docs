@@ -20,10 +20,8 @@ The Subscription name step allows you to add a name and description to your subs
 
 1. Enter a Description (optional).
 
-1. Review the subscription summary to ensure all information is accurate. To edit information, click the back arrow button at the bottom of the page.
+1. Review the subscription summary to ensure all information is accurate. To edit information, click the **back arrow button** at the bottom of the page.
 
 1. Click the **checkmark button** at the bottom of the page to complete the subscription.
-		 
 	
-	
- 
+		

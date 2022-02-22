@@ -10,7 +10,7 @@ Publication owners can invite users to subscribe to publications. Users who are 
 
 1. Click **Publications** in the left menu.
 
-1. Click a Publication.
+1. Click a publication.
 
 1. In the header, click **View Details/Manage Subscribers**.
 

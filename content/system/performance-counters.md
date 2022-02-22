@@ -20,4 +20,4 @@ Performance counters can be accessed from Windows Monitoring Tools and/or [PI In
 
 - The `BytesReceivedRate` and `BytesSentRate` counters are an aggregate of two individual data streams: one for the PI Data Archive and one for the PI AF Server.
 
-- If the PI Connect service, Publication, or Subscription for a performance counter are stopped no new values are recorded. This means that the `BytesReceivedRate` and `BytesSentRate` will not record a value of zero, but instead it will flat line at the last recorded value and the `Heartbeat` counter will stop incrementing.
+- If the PI Connect service, Publication, or Subscription for a performance counter are stopped, no new values are recorded. This means that the `BytesReceivedRate` and `BytesSentRate` will not record a value of zero, but instead it will flat line at the last recorded value and the `Heartbeat` counter will stop incrementing.

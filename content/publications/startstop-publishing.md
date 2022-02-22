@@ -10,6 +10,6 @@ Perform the following steps to start or stop a publication.
 
 1. Click **Publications** in the left menu.
 
-1. Click a Publication.
+1. Click a publication.
 
 1. In the header, click **Start Publishing** or **Stop Publishing**.
