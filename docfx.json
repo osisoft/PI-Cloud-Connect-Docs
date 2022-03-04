@@ -30,6 +30,7 @@
       "resource": [
         {
           "files": [
+            "/content/images/**",
             "/content/overview/images/**",
             "/content/publications/images/**",
             "/content/subscriptions/images/**",
