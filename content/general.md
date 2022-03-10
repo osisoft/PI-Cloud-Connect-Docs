@@ -10,7 +10,7 @@ PI Cloud Connect is a multi-account, cloud-based Software-as-a-Service (SaaS) of
 
 - Multi-account because the solution can natively manage multiple organizations/companies who subscribe to the service
 
-- Cloud-based because the solution leverages components running in Windows Azure, the public cloud offering from Microsoft
+- Cloud-based because the solution leverages components running in Microsoft Azure, the public cloud offering from Microsoft
 
 - Managed by OSIsoft because we support, maintain and upgrade this service and all its components
 
@@ -24,7 +24,7 @@ No. PI Cloud Connect utilizes the PI AF SDK and requires a connection to both PI
 
 ## Which cloud infrastructure is used for PI Cloud Connect? Is it a public or private cloud?
  
-PI Cloud Connect uses Windows Azure, the public cloud offering from Microsoft. At the moment, no other cloud providers (private or public) are supported. The cloud components of PI Cloud Connect are deployed in the OSIsoft Azure subscription. Customers using PI Cloud Connect do not need to subscribe to Windows Azure.
+PI Cloud Connect uses Microsoft Azure, the public cloud offering from Microsoft. At the moment, no other cloud providers (private or public) are supported. The cloud components of PI Cloud Connect are deployed in the OSIsoft Azure subscription. Customers using PI Cloud Connect do not need to subscribe to Microsoft Azure.
 
 ## Does OSIsoft have access to the logs?
 

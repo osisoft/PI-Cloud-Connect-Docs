@@ -64,7 +64,7 @@ Review the [Download and install PI Cloud Connect](xref:download-and-install) pa
 
 ### Internet access
 
-If access to Internet is managed through a proxy server or if your corporate firewall is controlling the access to public resources, you might need to contact your IT department to make sure that the PI Connect node can access resources hosted in Windows Azure. During the platform validation check performed by the PI Connect node setup kit, any connectivity issue between the PI Connect node and the Azure components will be reported to the user so that corrective action can be taken before further deployment.
+If access to Internet is managed through a proxy server or if your corporate firewall is controlling the access to public resources, you might need to contact your IT department to make sure that the PI Connect node can access resources hosted in Microsoft Azure. During the platform validation check performed by the PI Connect node setup kit, any connectivity issue between the PI Connect node and the Azure components will be reported to the user so that corrective action can be taken before further deployment.
 
 ### Internet browser
 

@@ -33,7 +33,7 @@ The PI Cloud Connect setup kit requires the following:
 
   - PI Cloud Connect uses standard port 443 for HTTPS connection between the local service and Azure. Port 443 is used by default by Microsoft Service Bus Relay, but will fall back to ports 9354 to 9350 if this port is blocked. Ports 9354 and 9350 are not required for PI Cloud Connect installation.
 
-  - For some customers who are using proxy servers or have restricted access to the internet, it might be required to configure three sites as trusted sites. Here are the steps to make this change:
+  - For some customers who are using proxy servers or have restricted access to the internet, it might be required to configure some sites as trusted sites. Here are the steps to make this change:
 
     1. Log in to the system using the same account that the PI Connect service will be configured to use.
 
@@ -54,6 +54,8 @@ The PI Cloud Connect setup kit requires the following:
        - https://dc.applicationinsights.microsoft.com/v2/track
 
        - https://dc.services.visualstudio.com/v2/track
+
+       PICC establishes secure connections to these endpoints using DigiCert and GlobalSign as the trusted authority. Please check/verify the certificate for service bus.
 
 - Disable Internet Explorer Enhanced Security Configuration.
 
