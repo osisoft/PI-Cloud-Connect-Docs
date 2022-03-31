@@ -3,9 +3,9 @@ uid: cannot-access-pi-af
 ---
 
 # Cannot access PI AF
-   
+
 When creating or subscribing to a publication, the first step is to select a data source/destination from/to PI AF. An error message may occur when the PI Cloud Connect Customer Portal cannot access the PI AF servers. Follow the troubleshooting steps below to resolve the issue. If the steps below do not resolve the issue, contact [OSIsoft Technical Support](https://my.osisoft.com/).
- 
+
 ![accessing PI AF](images/screenshot_accessingpiaf.png)
 
 | Issue | Resolution |
