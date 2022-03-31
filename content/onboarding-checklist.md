@@ -3,8 +3,8 @@ uid: onboarding-checklist
 ---
 
 # Onboarding checklist
- 
-The table below is a summarized checklist of the onboarding items mentioned in the [Onboarding](xref:onboarding)  topic.
+
+The table below is a summarized checklist of the onboarding items mentioned in the [Onboarding](xref:onboarding) topic.
 
 | Business |
 | -------- |

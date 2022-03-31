@@ -17,4 +17,4 @@ Review the following causes and resolutions to resolve this error message:
 | Microsoft account credentials were cached in your browser and you were not explicitly presented with the Microsoft account sign in page. | Access the Microsoft account sign in page to login. |
 | Your Microsoft account credentials are valid but they are not associated with a user in PI Cloud Connect. | <ul><li>You are not yet a user in PI Cloud Connect for the account you are trying to access. Contact the account administrator to request access to the account.</li><li>You used a different Microsoft account when you activated your PI Cloud Connect user account. Enter the username/password information for the Microsoft account that you used to activate the user account.</li></ul> |
 
-If you are still having issues, contact OSIsoft technical support at [https://my.osisoft.com/](https://my.osisoft.com/).
+If you are still having issues, contact [OSIsoft Technical Support](https://my.osisoft.com/).

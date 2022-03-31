@@ -4,7 +4,7 @@ uid: download-and-install
 
 # Download and Install PI Cloud Connect
 
-Download and install the PI Cloud Connect setup kit to use your computer as a data source or destination. To remove a node, uninstall the Windows Service locally from the machine. If you are no longer able to access the machine to carry out a local uninstall, contact OSIsoft Technical Support to assist you: [https://my.osisoft.com/](https://my.osisoft.com/).
+Download and install the PI Cloud Connect setup kit to use your computer as a data source or destination. To remove a node, uninstall the Windows Service locally from the machine. If you are no longer able to access the machine to carry out a local uninstall, contact [OSIsoft Technical Support](https://my.osisoft.com/) for assistance.
 
 **Note:** The use of certificates enables Windows Service to be granted only least-privilege listen access to the Service Bus Relay. Similarly, PI Cloud Connect is granted permission to send to the Service Bus Relay only. This means that PI Cloud Connect can connect between Microsoft Azure and on-prem without needing to open additional ports in your firewall. Also, data and other information cannot flow in an unintended direction.
 
@@ -20,8 +20,7 @@ The PI Cloud Connect setup kit requires the following:
 
 - Microsoft .NET Framework 4.7.1 or higher
 
-  **Note:** If the required version of .NET Framework is not installed, install it from the
-				[Microsoft Downloads page](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net471-web-installer) before running the PI Cloud Connect setup kit. It will require a machine restart.
+  **Note:** If the required version of .NET Framework is not installed, install it from the [Microsoft Downloads page](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net471-web-installer) before running the PI Cloud Connect setup kit. It will require a machine restart.
 
 - PI AF Client 2.6 or later
 
@@ -37,9 +36,9 @@ The PI Cloud Connect setup kit requires the following:
 
     1. Log in to the system using the same account that the PI Connect service will be configured to use.
 
-    1. Open Internet Explorer.
+    2. Open Internet Explorer.
 
-    1. Add the following entries to the list of trusted sites:
+    3. Add the following entries to the list of trusted sites:
 
        - https://login.live.com/
 

@@ -30,7 +30,7 @@ Status – Whether the publication has been started, and whether the publication
 
 - **Not Sending (red exclamation point)** – The publication is started but is not sending data.
 
-  **Note:** If status is Not Sending, contact OSIsoft Technical Support: [https://my.osisoft.com](https://my.osisoft.com/).
+  **Note:** If status is Not Sending, contact [OSIsoft Technical Support](https://my.osisoft.com/).
 
 - **Stopped (yellow exclamation point)** – The publication is not started.
 
@@ -50,4 +50,4 @@ Subscribers Table – A list of users that have been invited to subscribe to the
 
   ![Receiving Progress bar](images/progressbarreload.png)
 
-  **Note:** If the Receiving Progress bar does not increment upon reload, contact OSIsoft Technical Support: [https://my.osisoft.com](https://my.osisoft.com/).
+  **Note:** If the Receiving Progress bar does not increment upon reload, contact [OSIsoft Technical Support](https://my.osisoft.com/).

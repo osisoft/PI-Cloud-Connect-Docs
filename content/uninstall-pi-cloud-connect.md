@@ -10,7 +10,7 @@ PI Cloud Connect can be uninstalled by following the steps below. The uninstall 
 
 - Uninstalling on the local machine also clears the configuration of the node in the cloud.
 
-- If you have a machine listed on the System page that you cannot access to uninstall, contact OSIsoft Technical Support at [https://my.osisoft.com/](https://my.osisoft.com/).
+- If you have a machine listed on the System page that you cannot access to uninstall, contact [OSIsoft Technical Support](https://my.osisoft.com/).
 
 ## Procedure
 

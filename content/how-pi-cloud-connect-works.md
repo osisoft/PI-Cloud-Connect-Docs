@@ -5,9 +5,9 @@ uid: how-pi-cc-works
 # How PI Cloud Connect works
 
 PI Cloud Connect is a Microsoft Azure hosted application that uses a publish and subscribe mechanism to manage the data flow between PI Systems. Users first have their account manager create a user account for them. They can then sign into the PI Cloud Connect customer portal to install the components required to securely and reliably connect their PI Systems and share data. Customers use the PI Cloud Connect customer portal to manage publications, subscriptions, users, and nodes.
- 
+
 ![How PI Cloud Connect works](images/howdoespicloudwork.png)
- 
+
 The following are the major components of the PI Cloud Connect service:
 
 | Component | Description |

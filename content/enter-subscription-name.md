@@ -5,8 +5,8 @@ uid: enter-subscription-name
 # Enter subscription name
 
 The Subscription name step allows you to add a name and description to your subscription. The subscription name will appear on your Subscription page and cannot be changed after the subscription is created. The description can be edited after the subscription is created.
- 
-**Note:** The default write mode of subscriptions is **Replace**, rather than **Insert**. **Replace** mode does not support compression of incoming event data. The following instructions show you how to retain compression of incoming data. However, if this change is causing complications to your operation, contact OSIsoft Technical Support and we can manually revert your subscription’s default setting to Insert.
+
+**Note:** The default write mode of subscriptions is **Replace**, rather than **Insert**. **Replace** mode does not support compression of incoming event data. The following instructions show you how to retain compression of incoming data. However, if this change is causing complications to your operation, contact [OSIsoft Technical Support](https://my.osisoft.com/) and we can manually revert your subscription’s default setting to **Insert**.
 
 ## Procedure
 
@@ -18,10 +18,8 @@ The Subscription name step allows you to add a name and description to your subs
 
 1. Enter a Data Prefix (recommended). This feature enables users to distinguish between identically named PI Points and Digital State Sets from different publications. All PI Points and Digital State Sets included in the subscription will be prepended with the data prefix entered followed by a period. The data prefix must contain only alphanumeric characters and cannot be edited after the subscription is created. The data prefix does not apply to PI AF objects such as PI AF Templates.
 
-1. Enter a Description (optional).
+1. (Optional) Enter a description.
 
 1. Review the subscription summary to ensure all information is accurate. To edit information, click the **back arrow button** at the bottom of the page.
 
 1. Click the **checkmark button** at the bottom of the page to complete the subscription.
-	
-		

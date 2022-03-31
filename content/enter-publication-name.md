@@ -10,7 +10,7 @@ The Publication Name step allows you to add a name and description to your publi
 
 1. Enter a name for the publication.
 
-1. Enter a description (optional).
+1. (Optional) Enter a description.
 
 1. Review the publication summary. If necessary, click the back arrow button at the bottom of the page to make changes.
 

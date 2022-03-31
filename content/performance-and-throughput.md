@@ -5,13 +5,13 @@ uid: performance-and-throughput
 # Performance and throughput
 
 Performance metrics on the number of events per second for data publishing and subscribing, and the number of tags available at startup.
-   
+
 PI Cloud Connect can sustain a data transfer rate of approximately 8,000 events/sec per node for up to 100,000 PI Tags.
- 
+
 In general when publishing or subscribing to data at a rate of approximately 4,000 events/sec, 120 Kbytes/sec of network throughput will be utilized on a constant basis. As a comparison, average OSIsoft customer PI Interfaces have data rates of about 50 events/sec per 1,000 tags. Given an average customer, the bandwidth required per thousand (1,000) tags is approximately 2.9 Kbytes/sec.
- 
+
 For PI Cloud Connect implementations that will be publishing or subscribing to data at rates approaching or exceeding 2,000 events/sec, it is recommended that the `totalupdatequeue` and `maxupdatequeue` Tuning Parameters on the PI Data Archive be adjusted to meet the needs of the system. Data transmission that exceeds the configured maximum for the PI Data Archive Update Queue, or exceeds 8,000 events/sec, will not be lost, but instead simply delayed. This engineering design takes into account that the publisher is likely to lose connection to the internet from time to time, and will need to occasionally send bursts of data when necessary. This enables PI Cloud Connect to continue delivering time-series data despite intermittent loss of internet connection.
- 
+
 The following sections provide information for determining whether PI Cloud Connect can accommodate the volume and velocity of data you want to publish, as well as how to estimate how the throughput of your data matches up to the maximum 8,000 event/sec throughput that PI Cloud Connect can handle.
 
 ## Incorrect throughput estimation
