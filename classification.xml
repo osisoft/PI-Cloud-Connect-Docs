@@ -21,8 +21,8 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12960</WindowHeight>
-  <WindowWidth>21570</WindowWidth>
+  <WindowHeight>21225</WindowHeight>
+  <WindowWidth>32767</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>500</TabRatio>
@@ -124,11 +124,13 @@
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">MAP</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s17"><Data ss:Type="String">PI-Cloud-Connect</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">cloud</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">PI-Cloud-Connect</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">apply-ALL</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s17"><Data ss:Type="String">PI-Cloud-Connect</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">cloud</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">PI-Cloud-Connect</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">default</Data></Cell>
@@ -154,8 +156,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>2</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
@@ -616,8 +618,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>7</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>6</ActiveRow>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
