@@ -55,7 +55,7 @@ The PI Cloud Connect setup kit requires the following:
 
        - https://dc.services.visualstudio.com/v2/track
 
-       PICC establishes secure connections to these endpoints using DigiCert and GlobalSign as the trusted authority. Please check/verify the certificate for service bus.
+       PICC establishes secure connections to these endpoints using DigiCert and GlobalSign as the trusted authority. Check and verify the certificate for the service bus.
 
 - Disable Internet Explorer Enhanced Security Configuration.
 
