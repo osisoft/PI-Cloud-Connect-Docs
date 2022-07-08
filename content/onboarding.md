@@ -12,7 +12,7 @@ PI Cloud Connect allows customers to share data between PI Systems. If the data 
 
 ## Frame the context of the data exchange
 
- Here is a non-exhaustive list of questions that each customer interested in using PI Cloud Connect might want to answer before engaging in the sign up process.
+Here is a non-exhaustive list of questions that each customer interested in using PI Cloud Connect might want to answer before engaging in the sign up process.
 
 ### Business considerations
 
@@ -77,6 +77,8 @@ When deploying the PI Connect components on the computer used to access PI AF, s
 ### Windows Service account
 
 The PI Connect Windows Service requires a Windows Identity with the following:
+
+- Local Administrator privileges
 
 - Log as Service privileges
 
