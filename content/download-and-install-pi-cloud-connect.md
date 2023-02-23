@@ -36,17 +36,17 @@ The PI Cloud Connect setup kit requires the following:
 
     1. Log in to the system using the same account that the PI Connect service will be configured to use.
 
-    2. Open Internet Explorer.
+    1. Open Windows Control Panel and search for Internet Options.
 
-    3. Add the following entries to the list of trusted sites:
+    1. Select the **Security** tab and then select **Trusted Sites**.
+
+    1. Select the **Sites** button and then add the following entries to the list of trusted sites:
 
        - https://login.live.com/
 
        - https://ixsengine.picloudservices.com
 
        - https://dat-b.osisoft.com/identity
-
-         **Note:** Even if you want to use a browser other than Internet Explorer to access the portal site at a later time, these settings must first be configured in Internet Explorer. Other browsers and the Azure Authentication Library use the same settings.
 
        - https://*.servicebus.windows.net
 
@@ -56,25 +56,25 @@ The PI Cloud Connect setup kit requires the following:
 
        PICC establishes secure connections to these endpoints using DigiCert and GlobalSign as the trusted authority. Check and verify the certificate for the service bus.
 
-- Disable Internet Explorer Enhanced Security Configuration.
+- Confirm **Enhance your security on the web** is disabled in Microsoft Edge.
 
 - Secure required administrator privileges to install PI Connect.
 
 ## Procedure
 
-1. Click **System** in the left navigation menu.
+1. Select **System** in the left navigation menu.
 
-1. Click **Download** at the top of the page.
+1. Select **Download** at the top of the page.
 
 1. Review and ensure system requirements.
 
-1. Click **Download** again at the bottom of the page.
+1. Select **Download** again at the bottom of the page.
 
-1. Click **Run** in the **Do you want to run or save?** message at the bottom of the page.
+1. Select **Run** in the **Do you want to run or save?** message at the bottom of the page.
 
 1. Access the PI Connect Setup window.
 
-1. Click **Next**.
+1. Select **Next**.
 
 1. Enter a service account username and password.
 
@@ -118,17 +118,17 @@ The PI Cloud Connect setup kit requires the following:
 
    - When using a proxy server, that account should be able to communicate with the Internet from the proxy server.
 
-1. Click **Validate Credential**.
+1. Select **Validate Credential**.
 
-1. Click **Next**.
+1. Select **Next**.
 
 1. Verify the pre-populated Node Name is the host name for the machine. The name/description will be used in the PI Cloud Connect Customer Portal.
 
-1. Click **Next**.
+1. Select **Next**.
 
 1. The default browser opens. If you signed in to the PI Cloud Connect Portal within one hour, you do not need to reenter your credentials. If you downloaded the install kit rather than going through the portal, enter your credentials now.
 
-1. Click **Sign in**.
+1. Select **Sign in**.
 
    When you successfully enter your Windows credentials, a login success page displays, which redirects you to documentation after 15 seconds. Once this occurs, return to the install kit.
 
