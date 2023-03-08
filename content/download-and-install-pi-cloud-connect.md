@@ -36,7 +36,7 @@ The PI Cloud Connect setup kit requires the following:
 
     1. Log in to the system using the same account that the PI Connect service will be configured to use.
 
-    1. Open Windows Control Panel and search for Internet Options.
+    1. In Windows, select **Windows Search** and type "Internet Options." Select **Internet Options**.
 
     1. Select the **Security** tab and then select **Trusted Sites**.
 
@@ -55,6 +55,8 @@ The PI Cloud Connect setup kit requires the following:
        - https://dc.services.visualstudio.com/v2/track
 
        PICC establishes secure connections to these endpoints using DigiCert and GlobalSign as the trusted authority. Check and verify the certificate for the service bus.
+    
+    1. Select **Close**, then select **OK**.
 
 - Confirm **Enhance your security on the web** is disabled in Microsoft Edge.
 
