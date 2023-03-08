@@ -40,7 +40,7 @@ The PI Cloud Connect setup kit requires the following:
 
     1. Select the **Security** tab and then select **Trusted Sites**.
 
-    1. Select the **Sites** button and then add the following entries to the list of trusted sites:
+    1. Select **Sites** and then add the following entries to the list of trusted sites:
 
        - https://login.live.com/
 
