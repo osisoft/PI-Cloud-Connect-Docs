@@ -22,7 +22,7 @@ The PI Cloud Connect setup kit requires the following:
 
   **Note:** If the required version of .NET Framework is not installed, install it from the [Microsoft Downloads page](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net471-web-installer) before running the PI Cloud Connect setup kit. It will require a machine restart.
 
-- PI AF Client 2.6 or later
+- PI AF Client 2.6 to 2.11; later versions are not supported
 
 - A valid connection to PI Data Archive 3.4.380.36 or later
 
