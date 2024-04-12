@@ -124,12 +124,12 @@
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">MAP</Data></Cell>
-    <Cell ss:Index="3"><Data ss:Type="String">cloud</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">pi_system</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">PI-Cloud-Connect</Data></Cell>
    </Row>
    <Row ss:Height="15">
     <Cell><Data ss:Type="String">apply-ALL</Data></Cell>
-    <Cell ss:Index="3"><Data ss:Type="String">cloud</Data></Cell>
+    <Cell ss:Index="3"><Data ss:Type="String">pi_system</Data></Cell>
     <Cell ss:StyleID="s17"><Data ss:Type="String">PI-Cloud-Connect</Data></Cell>
    </Row>
    <Row>
